@@ -4,7 +4,7 @@ import os
  
 os.system("apt-get install figlet")
 os.system("clear")
-os.system("figlet BHECY")
+os.system("figlet GREENSLEEP")
 os.system("figlet SITE BILGI TOPLAMA ARACI")
  
 print("""
